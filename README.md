@@ -1,6 +1,6 @@
-## analytics.wsu.edu
+## analytics.clevelandstatecc.edu
 
-A project to publish website analytics for Washington State University. This is a fork of the public domain [analytics.usa.gov project](https://github.com/18F/analytics.usa.gov).
+A project to publish website analytics for Cleveland State Community College. This is a fork of the public domain [analytics.usa.gov project](https://github.com/18F/analytics.usa.gov).
 
 For a detailed description of how the site works, read [18F's blog post on analytics.usa.gov](https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/).
 
